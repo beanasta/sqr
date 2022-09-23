@@ -81,11 +81,4 @@ public class SQRServiceTest {
     }
 
 
-//
-//
-//
-//
-//    shouldCalculateSquaresZeroLimitRange
-
-
 }
